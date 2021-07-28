@@ -1,0 +1,19 @@
+{
+  "name": "vartotojai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustasMC/Egzaminas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustasMC/Egzaminas/issues"
+  },
+  "homepage": "https://github.com/JustasMC/Egzaminas#readme"
+}
