@@ -4,20 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JustasMC/Egzaminas.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node server/server.js",
     "dev":"nodemon server/server.js"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JustasMC/client.git"
-  },
-  "homepage": "https://github.com/JustasMC/client#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",

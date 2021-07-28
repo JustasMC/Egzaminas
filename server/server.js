@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const app = express();
 
-const mongoUri = 'mongodb+srv://admin:<password>@cluster0.1snva.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+const mongoUri = 'mongodb+srv://admin:edimax123@cluster0.1snva.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 mongoose.connect(mongoUri,{
     useNewUrlParser: true,
     useUnifiedTopology: true
